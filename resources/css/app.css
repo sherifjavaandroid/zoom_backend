@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '~intl-tel-input/build/css/intlTelInput.css';
